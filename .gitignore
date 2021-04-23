@@ -34,8 +34,8 @@ nosetests.xml
 .project
 .pydevproject
 
-# Vim
-*.swp
+# Virtual environment
+venv
 
 .cache
 __pycache__
